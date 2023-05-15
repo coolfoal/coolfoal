@@ -1,0 +1,6 @@
+baseURL = 'http://coolfoal.cf/'
+languageCode = 'zh-cn'
+title = 'coolfoal'
+theme = "XMin"
+
+    
